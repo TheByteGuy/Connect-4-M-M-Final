@@ -3,12 +3,12 @@ Creating a Connect 4 game with an AI to battle
 
 
 
-#### - Step one make connect four game
+#### - Step one, download and setup https://homepages.hass.rpi.edu/heuveb/Teaching/M&M/Connect4/Connect4.htm
 
-#### - Step Two make game playable
+#### - Step Two, make game playable via code
 
-#### - Step Three train AI to play game
+#### - Step Three, build an advanced minimax algorithm with alpha beta pruning and heuristics to be able to play connect 4
 
-#### - Combine AI and game into finished project
+#### - Final Step, Combine AI and game into finished project
 
-![360_F_489214984_Ie4mxAUNClpmXymvuIOqvqmj9GQslpnx](https://github.com/user-attachments/assets/67764391-baec-453b-8497-06d121a51333)
+![image](https://github.com/user-attachments/assets/8146a5d0-19aa-4c83-8683-ab2e75bac9d1)
